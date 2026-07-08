@@ -16,13 +16,13 @@
     {
       "title": "PART II: Counting Combinations I (5pts)",
       "instruction": "Given the colors below, make the possible combinations and answer the following questions.",
-      "image": "images/rby.png",
+      "image": "images/ryg.png",
       "items": [
         {
           "type": "tower_coloring",
           "id": "q2",
           "text": "2. Color the following tower of blocks with all possible combinations.",
-          "colors": ["Red", "Blue", "Yellow"],
+          "colors": ["Red", "Yellow", "Green"],
           "max_points": 1
         },
         {

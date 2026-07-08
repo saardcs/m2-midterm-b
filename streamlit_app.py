@@ -242,7 +242,7 @@ def render_tower_coloring(item):
             for block in range(num_blocks):
                 tower_inputs[i].append(
                     st.selectbox(
-                        "",
+                        "Select",
                         colors,
                         key=f"{item['id']}_tower{i}_block{block}",
                         label_visibility="collapsed"
