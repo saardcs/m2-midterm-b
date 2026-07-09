@@ -152,7 +152,7 @@
         {
           "type": "instruction",
           "text": "Suppose that the four-character code has the following restrictions:\n- Numbers only\n- Cannot repeat characters",
-          "image": "images/4char.png"
+          "image": "images/5char.png"
         },
         {
           "type": "mcq",
@@ -198,7 +198,7 @@
             "60",
             "10",
             "61",
-            "7"
+            "6"
           ],
           "max_points": 0.5
         },
@@ -210,7 +210,7 @@
             "44,261,653,680",
             "916,132,832",
             "100,000",
-            "5040"
+            "30,240"
           ],
           "max_points": 0.5
         }
