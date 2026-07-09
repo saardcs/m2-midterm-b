@@ -116,7 +116,7 @@
         {
           "type": "mcq",
           "id": "q9",
-          "text": "9. How many possible characters are there for the first spot in the password?",
+          "text": "9. How many possible characters are there for the **first** spot in the password?",
           "options": [
             "60",
             "62",
@@ -128,7 +128,7 @@
         {
           "type": "mcq",
           "id": "q10",
-          "text": "10. How many possible characters are there for the fourth spot in the password?",
+          "text": "10. How many possible characters are there for the **fourth** spot in the password?",
           "options": [
             "60",
             "58",
@@ -151,7 +151,7 @@
         },
         {
           "type": "instruction",
-          "text": "Suppose that the four-character code has the following restrictions:\n- Numbers only\n- Cannot repeat characters",
+          "text": "Suppose that the five-character code has the following restrictions:\n- Numbers only\n- Cannot repeat characters",
           "image": "images/5char.png"
         },
         {
@@ -181,7 +181,7 @@
         {
           "type": "mcq",
           "id": "q14",
-          "text": "14. How many possible characters are there for the first spot in the password?",
+          "text": "14. How many possible characters are there for the **first** spot in the password?",
           "options": [
             "62",
             "10",
@@ -193,7 +193,7 @@
         {
           "type": "mcq",
           "id": "q15",
-          "text": "15. How many possible characters are there for the fourth spot in the password?",
+          "text": "15. How many possible characters are there for the **fifth** spot in the password?",
           "options": [
             "60",
             "10",
